@@ -1,7 +1,7 @@
 # Objective of the analysis
-# Iteration 1
-* Description
-* Accuracy
-# Iteration 2
-* Description
-* Accuracy
+
+A bank is investigating a very high rate of customer leaving the bank. Here is a 10.000 records dataset to investigate and predict which of the customers are more likely to leave the bank soon.
+
+# Source of Data
+
+https://www.kaggle.com/filippoo/deep-learning-az-ann
